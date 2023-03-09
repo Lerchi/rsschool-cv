@@ -1,18 +1,18 @@
 # About me  
-====  
+***  
 **FIO:** Valeiya Anokhina  
-====  
+***  
 **Contact information:**  
 **E-mail:** anwaal30@gmail.com
   
-====
+***
   
 **Skills and Proficiency:**  
 * VS Code  
 * HTML&CSS  
 * JavaScript  
   
-====
+***
   
 **Code example:**  
 ```  
@@ -23,15 +23,15 @@ console.log(typeof number);
 
 ```  
 
-====
+***
   
 **Courses:**   
 Rs.school
   
-====
+***
   
 **Languages:**  
   
 * Russian - Native  
 * English - A1/A2  
-=====  
+***  
