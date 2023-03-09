@@ -1,4 +1,4 @@
 # rsschool-cv
-обучение
+Начало обучения
 <br>https://GITHUB-USERNAME.github.io/rsschool-cv/cv
 
