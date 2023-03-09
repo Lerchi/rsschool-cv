@@ -1,6 +1,7 @@
 # About me  
 ***  
-**FIO:** Valeiya Anokhina  
+**FIO:**  
+Valeiya Anokhina  
 ***  
 **Contact information:**  
 **E-mail:** anwaal30@gmail.com
