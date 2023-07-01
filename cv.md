@@ -41,3 +41,7 @@ console.log(typeof number);
 * English - A1 (A2 in process…)
 
 *****
+## Courses: ##
++ Full Stack JavaScript on [The Odin project](https://www.theodinproject.com/paths/full-stack-javascript) (in progress)
++ JavaScript Manual on learnjavascript(https://learn.javascript.ru/) (in progress)
++ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
